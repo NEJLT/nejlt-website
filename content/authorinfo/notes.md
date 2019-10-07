@@ -18,7 +18,13 @@ Possible cycle outcomes are:
 
 Reviewing takes seven or more weeks, and there are progress updates along the way. We offer full-blind reviewing; nobody associated with acceptance decisions will see an author name.
 
-Journal extensions of prior work are not welcomed. NEJLT submissions should be completely original work. We try to respect our reviewers' time by asking them to examine and give feedback on work that has not been published before; in return, we hope to provide positive and useful reviews.
+Journal extensions of prior work are **not** welcomed. NEJLT submissions should be completely original work. We try to respect our reviewers' time by asking them to examine and give feedback on work that has not been published before; in return, we hope to provide positive and useful reviews.
+
+Submissions must **not** be under review anywhere else for the first three months of review, at the submission’s managing editor’s discretion.
+
+NEJLT imposes no embargo on rejected papers.
+
+The paper type indicated at submission will not be included in the final publication. The paper types are there to encourage good reviewing and a broad range of submissions, rather than to pigeonhole research.
 
 The turnaround from first submission to first decision is at least seven weeks.
 
