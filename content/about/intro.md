@@ -12,7 +12,7 @@ weight=10
 The main focus of NEJLT is Language Technology, i.e. Natural Language Processing and Computational Linguistics and related topics, on any natural language. The journal is published in Northern Europe, hence its name. NEJLT is indexed by major publication indexing services, and ranked by many national bibliographic ranking systems, including in the Nordics.
 
 
-**Affiliations**
+**Associations**
 
 NEJLT is indirectly managed by the [Northern European Association of Language Technology](http://omilia.uio.no/nealt/), the members of which are most also ACL members.
 
