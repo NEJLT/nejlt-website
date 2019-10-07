@@ -11,6 +11,8 @@ NEJLT is a peer-reviewed academic journal about Natural Language Processing, wit
 * __Language focus:__ 
   * Global - no specific focus
 
+$~$
+
 
 * __Topics of interest:__ including but not limited to
   * Cognitive Modeling and Psycholinguistics
@@ -37,7 +39,9 @@ NEJLT is a peer-reviewed academic journal about Natural Language Processing, wit
   * Speech and Multimodality
   * Summarization
   * Syntax: Tagging, Chunking and Parsing
-  * Works focused on Northern European languages are encouraged, but not afforded special treatment
+  * Works focusing on Northern European languages are encouraged, with the same requirements of excellence
+
+$~$
 
 
 * __Paper types:__ Six different kinds of paper submission
@@ -48,6 +52,8 @@ NEJLT is a peer-reviewed academic journal about Natural Language Processing, wit
   * Position 
   * Survey 
 
+$~$
+
 
 * __Reviewing policies:__
   * Evidence-based policies: NEJLT uses research on peer review to lead community discussion about shaping review policy
@@ -57,9 +63,14 @@ NEJLT is a peer-reviewed academic journal about Natural Language Processing, wit
   * Reviews must be substantial and constructive
   * Paper acceptance based on excellence alone
 
+$~$
+
 * __Submission format:__
   * Paper: follows one of the paper types, as listed above; unlimited length
   * Letter: new result or discussion point; up to ~1000 words, w/ 2-3 floats
+
+$~$
+
 * __Publication format:__
   * Free to publish, free to submit, free to read
   * Articles will be indexed and published in the ACL Anthology from 2020
