@@ -5,32 +5,45 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#home"
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "About NEJLT"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Editorial Team"
+  url = "#team"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Review process"
+  url = "#review"
   weight = 40
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
+  name = "Information for Authors"
+  url = "#authors"
+  weight = 50
+
+[[main]]
+  name = "Publishing in NEJLT"
+  url = "#publishing"
   weight = 60
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# [[main]]
-#    name = "CV"
-#    url = "files/cv.pdf"
-#    weight = 70
+[[main]]
+  name = "Policies"
+  url = "#policies"
+  weight = 70
+  
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 998
+  
+[[main]]
+  name = "Submit"
+  url = "https://journal.ep.liu.se/index.php/NEJLT"
+  weight = 999
