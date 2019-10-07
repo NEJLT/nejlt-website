@@ -2,9 +2,10 @@
 widget = "blank"
 headless = true
 weight = 40
+title = "Details"
 +++
 
-## Details
+
 
 NEJLT welcomes manuscripts from anywhere in the world that related excellent research in the field of language technology and natural language processing. Work on all languages is welcome. The range of papers suitable for NEJLT is just the same as that suitable at, for example, the ACL conference.
 
