@@ -5,42 +5,37 @@
 
 [[main]]
   name = "Home"
-  url = "#home"
+  url = "/home"
   weight = 10
 
 [[main]]
-  name = "About NEJLT"
-  url = "#posts"
+  name = "About"
+  url = "/about"
   weight = 20
 
 [[main]]
   name = "Editorial Team"
-  url = "#team"
+  url = "/team"
   weight = 30
 
 [[main]]
   name = "Review process"
-  url = "#review"
+  url = "/review"
   weight = 40
 
 [[main]]
   name = "Information for Authors"
-  url = "#authors"
+  url = "/authors"
   weight = 50
 
 [[main]]
-  name = "Publishing in NEJLT"
-  url = "#publishing"
-  weight = 60
-
-[[main]]
   name = "Policies"
-  url = "#policies"
+  url = "/policies"
   weight = 70
   
 [[main]]
   name = "Contact"
-  url = "#contact"
+  url = "/contact"
   weight = 998
   
 [[main]]
