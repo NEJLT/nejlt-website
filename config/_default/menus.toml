@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Home"
-  url = "/home"
+  url = "/"
   weight = 10
 
 [[main]]
@@ -21,12 +21,12 @@
 [[main]]
   name = "Review process"
   url = "/review"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Information for Authors"
   url = "/authorinfo"
-  weight = 50
+  weight = 40
 
 [[main]]
   name = "Policies"
