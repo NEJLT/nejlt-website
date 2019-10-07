@@ -22,8 +22,6 @@ Journal extensions of prior work are **not** welcomed. NEJLT submissions should 
 
 Submissions must **not** be under review anywhere else for the first three months of review, at the submission’s managing editor’s discretion.
 
-NEJLT imposes no embargo on rejected papers.
-
 The paper type indicated at submission will not be included in the final publication. The paper types are there to encourage good reviewing and a broad range of submissions, rather than to pigeonhole research.
 
 The turnaround from first submission to first decision is at least seven weeks.
