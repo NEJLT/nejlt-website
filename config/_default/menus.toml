@@ -19,12 +19,12 @@
   weight = 30
 
 [[main]]
-  name = "Review process"
+  name = "Review Process"
   url = "/review"
   weight = 50
 
 [[main]]
-  name = "Information for Authors"
+  name = "For Authors"
   url = "/authorinfo"
   weight = 40
 
