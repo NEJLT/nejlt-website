@@ -1,7 +1,7 @@
 +++
 widget = "blank"
 headless = true
-weight = 20
+weight = 40
 title="Policy on Publishing Ethics"
 +++
 

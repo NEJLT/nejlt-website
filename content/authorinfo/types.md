@@ -5,7 +5,7 @@ weight = 20
 title="Paper types"
 +++
 
-There are two goals of dividing papers into different types. The first is to encourage a broad range of submission types; there is a wide diversity in research in NLP. The second is to make sure that papers are reviewed appropriately, and so the paper type indicated prompts a different review form.
+When submitting a paper to NEJLT, authors should indicate what type it is, choosing from a pre-defined set. There are two goals of dividing papers into different types. The first is to encourage a broad range of submission types; there is a wide diversity in research in NLP. The second is to make sure that papers are reviewed appropriately, and so the paper type indicated prompts a  review form designed for that type.
 
 The types available at NEJLT from 2020 are:
 
