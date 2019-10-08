@@ -7,11 +7,6 @@ title="Policy on Publishing Ethics"
 
 NEJLT follows the COPE guidelines on handling allegations of unethical practice, following TACL, and currently also follows TACL guidelines in general.
 
-
-__Conflicts of interest:__
-
-NEJLT uses the definition of COI set forth by the Association for Computational Linguistics (ACL), namely, a person has a COI with a submitted paper if that person:  (1) is a co-author of the paper; or (2) has been a student or supervisor of one of the authors in the previous five years; or (3) has co-authored a paper or collaborated with one of the authors in the previous five years; or (4) is employed at the same company or institution as an author; or (5) has any other circumstances that could cause a bias in evaluating the paper. 
-
 __Plagiarism or redundant (duplicate) publication:__
 
 * COPE Council.  Suspected plagiarism in a submitted manuscript.  Version 2, November 2018.  https://doi.org/10.24318/cope.2019.2.1, flowchart https://publicationethics.org/files/plagiarism%20A.pdf
