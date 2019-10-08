@@ -5,4 +5,4 @@ weight = 10
 title="Editorial policies"
 +++
 
-NEJLT welcomes new excellent submissions of completely original content, and follows globally-recognised academic best practices in  publication and attribution. Our goal is to protect authors from biases while also protecting readers and indeed all involved from the effects of malpractice.
+NEJLT welcomes new excellent submissions of completely original content, and follows globally-recognised academic best practices in  publication and attribution. Our goal is to publish excellent research, while protecting authors from biases, and also ensuring that readers get high-quality and interesting papers that have been rigorously reviewed.
