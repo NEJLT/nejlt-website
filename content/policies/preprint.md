@@ -20,6 +20,6 @@ This policy is repeated below (as of October 2019):
 
 In addition, papers must remain anonymous for **three months** from the time of submission. This means that posting a paper on e.g. arXiv while it is under review may lead to a desk reject. The rejection embargo at NEJLT is twelve months before re-submission.
 
-The overriding goal is to not afford authors accidental advantage or disadvantage by means of their affiliation, to maintain fair and even reviewing. Evidence indicates that knowing a paper comes from a prestigious source [distorts reviews](https://www.pnas.org/content/114/48/12708?collection=).
+The overriding goal is to not afford authors accidental advantage or disadvantage by means of their affiliation, to maintain fair and even reviewing. Evidence indicates that knowing a paper comes from a prestigious source distorts reviews, in [computer science](https://www.pnas.org/content/114/48/12708?collection=) and [other fields](https://jamanetwork.com/journals/jama/article-abstract/2556112).
 
 If in doubt, you are welcome to contact the EiC or a board member to work out a solution for your manuscript.
