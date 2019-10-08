@@ -6,7 +6,7 @@ title="Preprints"
 +++
 
 
-Submissions that have been previously published non-anonymously on a pre-print server (like arXiv) or homepage are *sometimes* OK. NEJLT adopts the [ACL policy on submission](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation) in general, though manuscripts published as anonymous preprints (as offered by e.g. OpenReview) are always welcome.
+Submissions that have been previously published non-anonymously on a pre-print server (like arXiv) or other page are *sometimes* OK. NEJLT adopts the [ACL policy on submission](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation) in general, though manuscripts published as anonymous preprints (as offered by e.g. OpenReview) are always welcome.
 
 This policy is repeated below (as of October 2019):
 
@@ -18,8 +18,10 @@ This policy is repeated below (as of October 2019):
 
 > The notion of *preprint* is understood broadly to refer to any non-refereed paper posted online, including but not limited to preprint servers such as arXiv. Note that the rule applies only to preprints that authors post themselves, so it does not apply to (say) non-refereed proceedings volumes. The restriction on updating is to prevent authors from circumventing these rules by "flag planting" with a placeholder version over 1 month in advance.
 
-In addition, papers must remain anonymous for **three months** from the time of submission. This means that posting a paper on e.g. arXiv while it is under review may lead to a desk reject. The rejection embargo at NEJLT is twelve months before re-submission.
+In addition, papers must always remain anonymous for **three months** from the time of submission, unless a final decision is reached in that time. This means that posting a paper on e.g. arXiv while it is under review may lead to a desk reject. The rejection embargo at NEJLT is twelve months before re-submission.
 
-The overriding goal is to not afford authors accidental advantage or disadvantage by means of their affiliation, to maintain fair and even reviewing. Evidence indicates that knowing a paper comes from a prestigious source distorts reviews, in [computer science](https://www.pnas.org/content/114/48/12708?collection=) and [other fields](https://jamanetwork.com/journals/jama/article-abstract/2556112).
+Our field moves quickly. It is even more important then to give the best possible environment to reviewers. In exchange for asking that author identities are not published, NEJLT endeavours to provide a rapid but diligent process.
+
+The overarching principle is to not afford authors accidental advantage or disadvantage by means of their affiliation or identity, to maintain fair and even reviewing. Evidence indicates that knowing a paper comes from a prestigious source distorts reviews, both in [computer science](https://www.pnas.org/content/114/48/12708?collection=) and in [other fields](https://jamanetwork.com/journals/jama/article-abstract/2556112). Effective anonymity reduces this effect, a result which is good both for authors and for readers.
 
 If in doubt, you are welcome to contact the EiC or a board member to work out a solution for your manuscript.
