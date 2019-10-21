@@ -3,7 +3,11 @@ widget = "blank"
 headless = true
 weight = 40
 title="Full open access"
+active=false
 +++
+
+
+<img alt="Open access gold" src="/img/oagold.svg" style="height:120px; margin-left: 80px; margin-top: 20px;" align="right" />
 
 NEJLT is full open access. This means that accepted papers may be downloaded directly from the web and will not be charged for. There are also no fees for submitting or for publishing. There are no plans to collect fees at any point in the future from any part of the NEJLT process.
 
