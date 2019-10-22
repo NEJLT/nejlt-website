@@ -10,6 +10,7 @@ weight=20
 * Nikos Aletras, University of Sheffield; 2020-2021
 * Emily M. Bender, University of Washington; 2020-2021
 * Ryan Cotterell, University of Cambridge; 2020-2021
+* Yang Feng, Chinese Academy of Sciences; 2020-2021
 * Marco Kuhlmann, Linköping University; 2020-2021
 * Joakim Nivre, Uppsala University; 2020-2021
 * Jörg Tiedemann, University of Helsinki; 2020-2021
