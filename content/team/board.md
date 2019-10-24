@@ -13,5 +13,6 @@ weight=20
 * Yang Feng, Chinese Academy of Sciences; 2020-2021
 * Marco Kuhlmann, Linköping University; 2020-2021
 * Joakim Nivre, Uppsala University; 2020-2021
+* Verena Rieser, Heriot Watt University; 2020-2021
 * Thamar Solorio, University of Houston; 2020-2021
 * Jörg Tiedemann, University of Helsinki; 2020-2021
