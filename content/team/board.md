@@ -11,7 +11,9 @@ weight=20
 * Emily M. Bender, University of Washington; 2020-2021
 * Ryan Cotterell, University of Cambridge; 2020-2021
 * Yang Feng, Chinese Academy of Sciences; 2020-2021
+* Eva Hajičová, Charles University; 2020-2021
 * Marco Kuhlmann, Linköping University; 2020-2021
+* Yuji Matsumoto, NAIST/Riken AIP; 2020-2021
 * Joakim Nivre, Uppsala University; 2020-2021
 * Verena Rieser, Heriot Watt University; 2020-2021
 * Thamar Solorio, University of Houston; 2020-2021
