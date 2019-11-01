@@ -16,6 +16,7 @@ weight=20
 * Marco Kuhlmann, Linköping University; 2020-2021
 * Yuji Matsumoto, NAIST/Riken AIP; 2020-2021
 * Joakim Nivre, Uppsala University; 2020-2021
+* Ellie Pavlick, Brown University; 2020-2021
 * Verena Rieser, Heriot Watt University; 2020-2021
 * Thamar Solorio, University of Houston; 2020-2021
 * Mark Steedman, University of Edinburgh; 2020-2021
