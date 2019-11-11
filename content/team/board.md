@@ -21,3 +21,4 @@ weight=20
 * Thamar Solorio, University of Houston; 2020-2021
 * Mark Steedman, University of Edinburgh; 2020-2021
 * Jörg Tiedemann, University of Helsinki; 2020-2021
+* Bonnie Webber, Universty of Edinburgh; 2020-2021
