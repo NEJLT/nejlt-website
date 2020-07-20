@@ -5,7 +5,7 @@ weight = 25
 title = "Journal scope"
 +++
 
-* __Language focus:__ 
+* __Language focus:__
   * Global; no specific focus. Research on all and any languages is invited.
 
 $~$
@@ -45,9 +45,9 @@ $~$
   * Computationally-aided linguistic analysis
   * NLP engineering experiment
   * Reproduction
-  * Resource 
-  * Position 
-  * Survey 
+  * Resource
+  * Position
+  * Survey
 
 $~$
 
@@ -64,7 +64,7 @@ $~$
 
 * __Submission format:__
   * Paper: follows one of the paper types, as listed above; unlimited length
-  * Letter: new result or discussion point; up to ~1000 words, w/ 2-3 floats
+  * Letter: new result or discussion point; up to ~1000 words, plus two or three figures/tables
 
 $~$
 

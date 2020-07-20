@@ -32,13 +32,13 @@
   name = "Policies"
   url = "/policies"
   weight = 70
-  
+
 [[main]]
   name = "Contact"
   url = "/contact"
   weight = 998
-  
+
 [[main]]
   name = "Submit"
-  url = "https://journal.ep.liu.se/index.php/NEJLT"
+  url = "https://nejlt.ep.liu.se/about/submissions"
   weight = 999
