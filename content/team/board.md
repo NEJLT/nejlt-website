@@ -16,6 +16,7 @@ weight=20
 * Yang Feng, Chinese Academy of Sciences; 2020-2021
 * Eva Hajičová, Charles University; 2020-2021
 * Marco Kuhlmann, Linköping University; 2020-2021
+* Emiel van Miltenburg, Tilburg University; 2020-2021
 * Yuji Matsumoto, NAIST/Riken AIP; 2020-2021
 * Joakim Nivre, Uppsala University; 2020-2021
 * Ellie Pavlick, Brown University; 2020-2021
