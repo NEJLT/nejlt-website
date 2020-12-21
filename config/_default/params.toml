@@ -85,7 +85,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "ld@itu.dk"
+email = "hello@nejlt.org"
 phone = "+45 5157 4948"
 
 # Address
@@ -109,7 +109,7 @@ address = {street = "Rued Langgaards Vej 7", city = "Copenhagen", region = "", p
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/NEJLangTech"},
+  {icon = "twitter", icon_pack = "fab", name = "Twitter", link = "https://twitter.com/NEJLangTech"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
