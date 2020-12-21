@@ -11,8 +11,8 @@ NEJLT publishes excellent research in the field of language technology, i.e. Nat
 
 NEJLT invites both journal articles and academic letters, and has a multi-iteration reviewing process, where revisions are a possibility.
 
-The reviewing philosophy of the journal is to minimise reviewing biases, and also to provide constructive, helpful feedback during the review process.
+The reviewing philosophy of the journal is to provide constructive, helpful feedback during the review process while seeking to minimise the impact of bias during review.
 
-NEJLT is a global journal with global focus. The journal's publisher is located in Northern Europe, hence its name, and supports the journal without charge, enabling open access publication with no costs. NEJLT is indexed by many publication indexing services, and ranked by many national bibliographic ranking systems.
+NEJLT is a global journal with global focus. 
 
-NEJLT accepts submissions continuously all year round.
+NEJLT accepts submissions continuously, with no specific time-limited calls.

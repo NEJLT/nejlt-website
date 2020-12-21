@@ -6,6 +6,5 @@ title = "Links"
 weight=80
 +++
 
-* [A brief presentation on NEJLT](http://tekstlab.uio.no/NEALT/nealt_2019_nejlt.pdf), given October 2 2019 at NODALIDA in Turku.
 
 Previously, NEJLT has had a different remit, with a sequence of previous editors-in-chief. The proposal for changing the journal into its current form is archived [here](http://tekstlab.uio.no/NEALT/proposal_2019.pdf) for posterity. The previous editors are shown [here](http://omilia.uio.no/nealt/?task=about), as the history of the NEALT board.
