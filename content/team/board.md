@@ -8,7 +8,7 @@ weight=20
 
 * Isabelle Augenstein, University of Copenhagen; 2020-2021
 * Nikolaos Aletras, University of Sheffield; 2020-2021
-* Rachel Bawden, University of Edinburgh; 2020-2021
+* Rachel Bawden, INRIA, Paris; 2020-2021
 * Emily M. Bender, University of Washington; 2020-2021
 * Miryam de Lhoneux, Uppsala University; 2020-2021
 * Nicoletta Calzolari, Institute for Computational Linguistics, NRC Italy; 2020-2021
