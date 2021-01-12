@@ -17,7 +17,7 @@ Papers must reach “minor edits” by the end of the 2nd review cycle. Possible
 
 NEJLT maintains a large standing pool of reviewers, drawn from the global NLP community and from reviewers who have previously been responsive and thorough. We expect AEs to be responsive; in return, we limit their load, and will find new AEs if manuscript load increases. The journal should have as much transparency as possible: this means notifying authors as manuscripts move through the pipeline.
 
-We give an estimated reviewing time of seven weeks, and a maximum time from submission to first decision of twelve weeks.
+The normal estimated reviewing time is seven weeks, and from 2021, the target maximum time from submission at NEJLT to a first decision is twelve weeks.
 
 Prior reviews from some venues may be submitted with a manuscript. These may be considered by AEs for the first decision, and are released to reviewers only _after_ the first round of reviewing. This is to avoid biasing our reviewers’ initial impression and thus compromising review quality. Consent is requested during manuscript submission to verify reviews with the original venue.
 
