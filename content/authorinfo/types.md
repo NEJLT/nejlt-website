@@ -7,6 +7,8 @@ title="Paper types"
 
 When submitting a paper to NEJLT, authors should indicate what type it is, choosing from a pre-defined set. There are two goals of dividing papers into different types. The first is to encourage a broad range of submission types; there is a wide diversity in research in NLP. The second is to make sure that papers are reviewed appropriately, and so the paper type indicated prompts a  review form designed for that type.
 
+Not all scholarship falls neatly into one of these paper types. If your manuscript doesn't fit these categories well, but is otherwise a good fit for NEJLT, please [contact the editor](https://www.nejlt.org/contact/).
+
 The types available at NEJLT from 2020 are:
 
 **Computationally-aided linguistic analysis**
