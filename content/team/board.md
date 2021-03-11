@@ -10,7 +10,7 @@ weight=20
 * Nikolaos Aletras, University of Sheffield; 2020-2021
 * Rachel Bawden, INRIA, Paris; 2020-2021
 * Emily M. Bender, University of Washington; 2020-2021
-* Miryam de Lhoneux, Uppsala University; 2020-2021
+* Miryam de Lhoneux, University of Copenhagen; 2020-2021
 * Nicoletta Calzolari, Institute for Computational Linguistics, NRC Italy; 2020-2021
 * Ryan Cotterell, University of Cambridge; 2020-2021
 * Yang Feng, Chinese Academy of Sciences; 2020-2021
