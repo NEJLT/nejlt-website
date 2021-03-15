@@ -18,6 +18,7 @@ $~$
   * Discourse and Pragmatics
   * Ethics and NLP
   * Generation of language
+  * Green NLP
   * Information Extraction
   * Information Retrieval and Text Mining
   * Interpretability and Analysis of Models for NLP
