@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Assistant Professor of Computer Science
+role: NEJLT is a global journal that publishes peer-reviewed language technology and computational linguistics research on all languages.
 
 # Organizations/Affiliations
 organizations:
