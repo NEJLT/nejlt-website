@@ -12,7 +12,6 @@ weight=20
 * Emily M. Bender, University of Washington
 * Nicoletta Calzolari, Institute for Computational Linguistics, NRC Italy
 * Manuel R. Ciosici, USC Information Sciences Institute
-* Ryan Cotterell, University of Cambridge
 * Miryam de Lhoneux, University of Copenhagen
 * Yang Feng, Chinese Academy of Sciences
 * Eva Hajičová, Charles University
