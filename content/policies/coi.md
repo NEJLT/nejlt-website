@@ -5,7 +5,7 @@ weight = 37
 title="Conflicts of interest"
 +++
 
-NEJLT offers a high degree of blinding during review. This means it is possible for sitting board members to be co-authors on submissions. However, the following rules apply:
+NEJLT offers a high degree of anonymity during review. This means it is possible for sitting board members to be co-authors on submissions. However, the following rules apply:
 
 * No person with a conflict-of-interest with an author may have influence over or observe the decision making process for that author's submissions.
 * The sitting EiC may not be listed as an author on any submissions.
