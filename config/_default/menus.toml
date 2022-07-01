@@ -14,19 +14,24 @@
   weight = 20
 
 [[main]]
-  name = "Editorial Team"
-  url = "/team"
-  weight = 30
+  name = "Articles"
+  url = "https://nejlt.ep.liu.se/issue/archive"
+  weight = 25
 
 [[main]]
-  name = "Review Process"
-  url = "/review"
-  weight = 50
+  name = "Team"
+  url = "/team"
+  weight = 30
 
 [[main]]
   name = "For Authors"
   url = "/authorinfo"
   weight = 40
+
+[[main]]
+  name = "Review Process"
+  url = "/review"
+  weight = 50
 
 [[main]]
   name = "Policies"
