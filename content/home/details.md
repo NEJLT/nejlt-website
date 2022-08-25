@@ -9,7 +9,7 @@ title = "Details"
 
 NEJLT welcomes manuscripts from anywhere in the world that present excellent research in the field of language technology and natural language processing. Work on all languages is welcome. The range of papers suitable for NEJLT is just the same as that suitable at, for example, the ACL conference.
 
-The ACL Anthology has accepted inclusion of articles published in NEJLT, and this will come into effect in 2020.
+The ACL Anthology has accepted inclusion of articles published in NEJLT, and this will come into effect in 2022 for volume 7 and onward.
 
 
 

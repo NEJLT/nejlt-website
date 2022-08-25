@@ -71,4 +71,4 @@ $~$
 
 * __Publication format:__
   * Free to publish, free to submit, free to read
-  * Articles will be indexed and published in the ACL Anthology from 2020
+  * Articles will be indexed and published in the ACL Anthology
