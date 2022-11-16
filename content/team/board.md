@@ -21,6 +21,8 @@ weight=20
 * Zhijing Jin, Max Planck Institute & ETH Zurich
 * Marco Kuhlmann, Linköping University
 * Song Linfeng, Tencent
+* Sasha Luccioni, Hugging Face
+* Benjamin Marie, 4i
 * Emiel van Miltenburg, Tilburg University
 * Yuji Matsumoto, NAIST/Riken AIP
 * Nafise Sadat Moosavi, The University of Sheffield
@@ -33,3 +35,4 @@ weight=20
 * Jörg Tiedemann, University of Helsinki
 * Bonnie Webber, Universty of Edinburgh
 * Adina Williams, Meta
+* Steve Wilson, Oakland University
