@@ -18,6 +18,7 @@ weight=20
 * Yang Feng, Chinese Academy of Sciences
 * Mark Fishel, University of Tartu
 * Eva Hajičová, Charles University
+* Zhijing Jin, Max Planck Institute & ETH Zurich
 * Marco Kuhlmann, Linköping University
 * Song Linfeng, Tencent
 * Emiel van Miltenburg, Tilburg University
@@ -31,3 +32,4 @@ weight=20
 * Mark Steedman, University of Edinburgh
 * Jörg Tiedemann, University of Helsinki
 * Bonnie Webber, Universty of Edinburgh
+* Adina Williams, Meta
