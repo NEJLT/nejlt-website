@@ -12,7 +12,7 @@ weight=20
 * Rachel Bawden, INRIA, Paris
 * Emily M. Bender, University of Washington
 * Nicoletta Calzolari, Institute for Computational Linguistics, NRC Italy
-* Christodoulopoulos, Christos, Amazon
+* Christos Christodoulopoulos, Amazon
 * Manuel R. Ciosici, USC Information Sciences Institute
 * Miryam de Lhoneux, University of Copenhagen
 * Yang Feng, Chinese Academy of Sciences
