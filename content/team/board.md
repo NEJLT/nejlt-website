@@ -10,11 +10,14 @@ weight=20
 * Nikolaos Aletras, University of Sheffield
 * Francesco Barbieri, Snap
 * Rachel Bawden, INRIA, Paris
+* Yonatan Belinkov, Technion
 * Emily M. Bender, University of Washington
 * Nicoletta Calzolari, Institute for Computational Linguistics, NRC Italy
 * Christos Christodoulopoulos, Amazon
 * Manuel R. Ciosici, USC Information Sciences Institute
 * Miryam de Lhoneux, University of Copenhagen
+* Yanai Elazar, University of Washington
+* Angela Fan, Meta
 * Yang Feng, Chinese Academy of Sciences
 * Mark Fishel, University of Tartu
 * Eva Hajičová, Charles University
@@ -29,9 +32,11 @@ weight=20
 * Joakim Nivre, Uppsala University
 * Ellie Pavlick, Brown University
 * Verena Rieser, Heriot Watt University
+* Kay Rottmann, Amazon Alexa AI
 * Vered Shwartz, Allen Institute for Artificial Intelligence (AI2)
 * Thamar Solorio, University of Houston
 * Mark Steedman, University of Edinburgh
+* Dhanasekar Sundararaman, Microsoft
 * Jörg Tiedemann, University of Helsinki
 * Bonnie Webber, Universty of Edinburgh
 * Adina Williams, Meta
