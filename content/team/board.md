@@ -20,6 +20,7 @@ weight=20
 * Angela Fan, Meta
 * Yang Feng, Chinese Academy of Sciences
 * Mark Fishel, University of Tartu
+* Hila Gonen, Meta / University of Washington
 * Eva Hajičová, Charles University
 * Zhijing Jin, Max Planck Institute & ETH Zurich
 * Marco Kuhlmann, Linköping University
