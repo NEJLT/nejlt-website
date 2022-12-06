@@ -22,6 +22,7 @@ weight=20
 * Mark Fishel, University of Tartu
 * Hila Gonen, Meta / University of Washington
 * Eva Hajičová, Charles University
+* Yufang Hou, IBM
 * Zhijing Jin, Max Planck Institute & ETH Zurich
 * Marco Kuhlmann, Linköping University
 * Song Linfeng, Tencent
