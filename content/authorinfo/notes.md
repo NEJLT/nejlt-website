@@ -18,7 +18,7 @@ NEJLT aims for a rapid review cycle. The shortest possible time to a first decis
 
 Journal extensions of prior work are **not** eligible for review. NEJLT submissions should be completely original work. We try to respect our reviewers' time by asking them to examine and give feedback on work that has not been published before; in return, we hope to provide positive and useful reviews.
 
-Submissions must **not** be under review anywhere else for the first three months of review, at the discretion of the submission’s managing editor. Contact us for exemptions.
+Submissions must **not** be under review anywhere else for the first three months of review, at the discretion of the submission’s managing editor. A paper may not be simultaneously under review through ACL Rolling Review and NEJLT. A paper that has or will receive reviews through ACL Rolling Review may not be submitted for review to NEJLT.
 
 The paper type indicated at submission will not be included in the final publication. The paper types are there to prompt appropriate reviewing and to enable a broad range of submissions, rather than to pigeonhole research.
 
