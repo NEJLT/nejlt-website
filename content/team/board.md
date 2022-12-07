@@ -16,6 +16,7 @@ weight=20
 * Christos Christodoulopoulos, Amazon
 * Manuel R. Ciosici, USC Information Sciences Institute
 * Miryam de Lhoneux, University of Copenhagen
+* Lucia Donatelli, Saarland University
 * Yanai Elazar, University of Washington
 * Angela Fan, Meta
 * Yang Feng, Chinese Academy of Sciences
