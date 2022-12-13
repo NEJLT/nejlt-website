@@ -26,10 +26,8 @@ weight=20
 * Yufang Hou, IBM
 * Zhijing Jin, Max Planck Institute & ETH Zurich
 * Marco Kuhlmann, Linköping University
-* Song Linfeng, Tencent
 * Sasha Luccioni, Hugging Face
 * Benjamin Marie, 4i
-* Emiel van Miltenburg, Tilburg University
 * Yuji Matsumoto, NAIST/Riken AIP
 * Nafise Sadat Moosavi, The University of Sheffield
 * Joakim Nivre, Uppsala University
@@ -38,9 +36,11 @@ weight=20
 * Kay Rottmann, Amazon Alexa AI
 * Vered Shwartz, Allen Institute for Artificial Intelligence (AI2)
 * Thamar Solorio, University of Houston
+* Song Linfeng, Tencent
 * Mark Steedman, University of Edinburgh
 * Dhanasekar Sundararaman, Microsoft
 * Jörg Tiedemann, University of Helsinki
+* Emiel van Miltenburg, Tilburg University
 * Bonnie Webber, Universty of Edinburgh
 * Adina Williams, Meta
 * Steve Wilson, Oakland University
