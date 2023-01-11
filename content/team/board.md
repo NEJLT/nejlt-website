@@ -9,6 +9,7 @@ weight=20
 * Isabelle Augenstein, University of Copenhagen
 * Nikolaos Aletras, University of Sheffield
 * Francesco Barbieri, Snap
+* Jasmijn Bastings, Google
 * Rachel Bawden, INRIA, Paris
 * Yonatan Belinkov, Technion
 * Emily M. Bender, University of Washington
