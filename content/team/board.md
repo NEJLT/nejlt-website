@@ -32,6 +32,7 @@ weight=20
 * Yuji Matsumoto, NAIST/Riken AIP
 * Nafise Sadat Moosavi, The University of Sheffield
 * Joakim Nivre, Uppsala University
+* Debora Nozza, Bocconi University
 * Ellie Pavlick, Brown University
 * Verena Rieser, Heriot Watt University
 * Kay Rottmann, Amazon Alexa AI
