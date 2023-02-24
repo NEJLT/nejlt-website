@@ -14,11 +14,11 @@ $~$
 * __Topics of interest:__ including but not limited to
   * Cognitive Modeling and Psycholinguistics
   * Computational Social Science and Social Media
-  * Dialogue and Interactive Systems
+  * Dialogue, Chat, and Interactive Systems
   * Discourse and Pragmatics
+  * Efficient NLP
   * Ethics and NLP
   * Generation of language
-  * Green NLP
   * Information Extraction
   * Information Retrieval and Text Mining
   * Interpretability and Analysis of Models for NLP
@@ -29,6 +29,7 @@ $~$
   * NLP Applications
   * Phonology, Morphology and Word Segmentation
   * Question Answering
+  * Representation learning
   * Resources and Evaluation
   * Semantics: Lexical
   * Semantics: Sentence Level
@@ -37,7 +38,7 @@ $~$
   * Speech and Multimodality
   * Summarization
   * Syntax: Tagging, Chunking and Parsing
-  * Works focusing on Northern European languages are encouraged, with the same requirements of excellence
+  * Works focusing on Northern European languages are also welcome, with the same requirements of excellence
 
 $~$
 
@@ -56,8 +57,8 @@ $~$
 * __Reviewing policies:__
   * Evidence-based policies: NEJLT uses research on peer review to lead community discussion about shaping review policy
   * Full author anonymity: no editor responsible for the acceptance decision should see an author's name or affiliation
-  * Signed reviews: following e.g. the BMJ, reviews are signed, but reviewer identity hidden during the review process
-  * Include prior reviews: Allow consideration of recent reviews (<1yr) from ACL, EMNLP, NAACL, EACL, AACL, or NeurIPS
+  * Signed reviews: following e.g. the BMJ, reviews may be signed, but reviewer identity hidden during the review process
+  * Include prior reviews: Accelerated review when providing recent prior reviews (<1yr) from top venues
   * Reviews must be substantial and constructive
   * Paper acceptance based on excellence alone
 
@@ -65,7 +66,7 @@ $~$
 
 * __Submission format:__
   * Paper: follows one of the paper types, as listed above; unlimited length
-  * Letter: new result or discussion point; up to ~1000 words, plus two or three figures/tables
+  * Letter: new result or discussion point; up to six pages 
 
 $~$
 
