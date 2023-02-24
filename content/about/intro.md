@@ -7,11 +7,11 @@ weight=10
 +++
 
 
-NEJLT publishes excellent research in the field of language technology, i.e. Natural Language Processing, Computational Linguistics, and related topics. Research focused on *any* natural language is invited.
+NEJLT publishes excellent research in the field of language technology, i.e. Natural Language Processing, Computational Linguistics, and related topics. Research on *any* natural language is invited.
 
-NEJLT invites both journal articles and academic letters, and has a multi-iteration reviewing process, where revisions are a possibility.
+NEJLT invites both journal articles and academic letters.
 
-The reviewing philosophy of the journal is to provide constructive, helpful feedback during the review process while seeking to minimise the impact of bias during review.
+The review philosophy of the journal is to provide constructive, helpful, timely feedback during the review process while seeking to minimise the impact of bias.
 
 NEJLT is a global journal with global focus. 
 
