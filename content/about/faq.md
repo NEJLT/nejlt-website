@@ -24,7 +24,7 @@ NEJLT is currently indexed in the ACL Anthology. Google Scholar indexes the jour
 
 • Why is "Northern Europe" in the title ?
 
-NEJLT is a global journal with no specific regional focus. It's maintained by the [https://tekstlab.uio.no/nealt/s](Northern European Association for Language Technology) It is hosted by a publisher who donate their technical effort and expertise to keeping the journal running, so we can focus on the research. This publisher, [Linköping e-Press](https://liu.se/en/article/epress), is based in Sweden which lies in north Europe, and the region was incorporated in the name when the journal was started. Thus, for historical reasons, the journal name is prefixed with Northern Europe, even though we have a global focus.
+NEJLT is a global journal with no specific regional focus. It's maintained by the [Northern European Association for Language Technology](https://tekstlab.uio.no/nealt/s) It is hosted by a publisher who donate their technical effort and expertise to keeping the journal running, so we can focus on the research. This publisher, [Linköping e-Press](https://liu.se/en/article/epress), is based in Sweden which lies in north Europe, and the region was incorporated in the name when the journal was started. Thus, for historical reasons, the journal name is prefixed with Northern Europe, even though we have a global focus.
 
 • Where do the journal issue cover images come from?
 
