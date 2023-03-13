@@ -72,4 +72,6 @@ $~$
 
 * __Publication format:__
   * Free to publish, free to submit, free to read
-  * Articles will be indexed and published in the ACL Anthology
+  * DOIs issued upon article publication under the journal ISSN
+  * Articles first appear at our official site supported by Linköping e-Press
+  * Articles are automatically indexed and published in the ACL Anthology
