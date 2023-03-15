@@ -6,4 +6,4 @@ title = "Editor-in-Chief"
 weight=10
 +++
 
-* Leon Derczynski, ITU Copenhagen; [ld@itu.dk](mailto:ld@itu.dk). [www](http://www.derczynski.com)
+* Leon Derczynski, ITU Copenhagen; [ld@itu.dk](mailto:ld@itu.dk) ([www](http://www.derczynski.com))
