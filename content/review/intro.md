@@ -3,7 +3,7 @@ widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 title = "Overview"
-weight=5
+weight=10
 +++
 At NEJLT, the review process has the following top-level steps.
 

@@ -2,7 +2,7 @@
 #cover image
 widget = "blank"
 headless = true
-weight = 45
+weight = 30
 active=true
 
 [design]

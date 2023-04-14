@@ -3,7 +3,7 @@ widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 title = "Paper type review forms"
-weight=50
+weight=60
 +++
 
 Below are the review forms for the different article types at NEJLT. All reviews also include general comments. These forms can help authors align their work with reviewer expectations, and help inform which article type a manuscript could be submitted as.

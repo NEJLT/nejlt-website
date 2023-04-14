@@ -3,7 +3,7 @@ widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = false  # Activate this widget? true/false
 title = "Author anonymity"
-weight=10
+weight=40
 +++
 
 Author identity should be hidden from anyone responsible for the decision on an NEJLT manuscript. This is achieved through accepting only anonymised submissions, and obscuring author identity from reviewers and action editors. A separate managing editor handles contact with the authors where necessary. This is **triple-anonymous reviewing**.

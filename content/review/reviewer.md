@@ -3,7 +3,7 @@ widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 title = "Reviewer visibility"
-weight=10
+weight=50
 +++
 
 While during reviewing authors and other reviewers will have their identities concealed from each other, NEJLT adopts an open policy later in the decision process. After reviewing is done, reviewer names may be revealed both to other reviewers and also to authors. This follows indications that malicious reviews are less prevalent when reviewer identity may be revealed. 

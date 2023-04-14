@@ -3,7 +3,7 @@ widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 title = "Review workflow"
-weight=60
+weight=20
 +++
 
 Submissions are assigned a managing editor (ME), who desk-checks and deals with author contact, and allocates an action editor (AE) to make the decision and to find reviewers.
