@@ -33,7 +33,7 @@ A position paper presents a challenge to conventional thinking or a futuristic n
 
 #### Survey Paper
 
-A survey paper provides a structured overview of the literature to date on a specific topic that helps the reader understand the kinds of questions being asked about the topic, the various approaches that have been applied, how they relate to each other, and what further research areas they open up. A conference-length survey paper should be about a sufficiently focused topic that it can do this successfully with in the page limits.
+A survey paper provides a structured overview of the literature to date on a specific topic that helps the reader understand the kinds of questions being asked about the topic, the various approaches that have been applied, how they relate to each other, and what further research areas they open up.
 
 
 The review forms used for each type are given on the [Review Process](/review/#forms) page.
