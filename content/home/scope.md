@@ -14,31 +14,33 @@ $~$
 * __Topics of interest:__ including but not limited to
   * Cognitive Modeling and Psycholinguistics
   * Computational Social Science and Social Media
-  * Dialogue, Chat, and Interactive Systems
+  * Dialogue and Interactive Systems
   * Discourse and Pragmatics
   * Efficient NLP
   * Ethics and NLP
-  * Generation of language
+  * Generation of Language
   * Information Extraction
   * Information Retrieval and Text Mining
   * Interpretability and Analysis of Models for NLP
   * Language Grounding to Vision, Robotics and Beyond
+  * Language Modelling
+  * Linguistic Issues in Language Technology
   * Theory and Formalism in NLP (Linguistic and Mathematical)
+  * Meta-studies on the Field of Language Technology
   * Machine Learning for NLP
   * Machine Translation
+  * Model Preferences and Behaviors
   * NLP Applications
   * Phonology, Morphology and Word Segmentation
   * Question Answering
-  * Representation learning
   * Resources and Evaluation
   * Semantics: Lexical
-  * Semantics: Sentence Level
+  * Semantics: Sentence, Paragraph, and Discourse level
   * Semantics: Textual Inference and Other Areas of Semantics
   * Sentiment Analysis, Stylistic Analysis, and Argument Mining
   * Speech and Multimodality
   * Summarization
   * Syntax: Tagging, Chunking and Parsing
-  * Works focusing on Northern European languages are also welcome, with the same requirements of excellence
 
 $~$
 
