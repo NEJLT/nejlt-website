@@ -20,7 +20,7 @@ No, none. There are no submission or review costs either.
 
 • Where is NEJLT indexed?
 
-NEJLT is currently indexed in the ACL Anthology. Google Scholar indexes the journal and its articles. All articles receive a global DOI. NEJLT is also indexed in ResearchGate, DIVA, UFM, and NSD. Applications to Web of Science/Clarivate JCR, to Elsevier/SJR, and to DBLP, are in preparation, and the majority of criteria are already fulfilled for all these.
+Google Scholar indexes the journal and its articles. All articles receive a global DOI. NEJLT is currently indexed in the ACL Anthology. NEJLT is also indexed in ResearchGate, DIVA, UFM, and NSD. We are specifically targetting applications to Scopus and Elsevier/SJR, as soon as the requirements are fulfilled. Applications are in preparation to Web of Science/Clarivate JCR, DBLP, and DOAJ. The majority of criteria are already fulfilled for all of these.
 
 • Why is "Northern Europe" in the title ?
 
