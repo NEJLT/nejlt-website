@@ -20,9 +20,9 @@ Journal extensions of prior work are **not** eligible for review. NEJLT submissi
 
 Submissions must **not** be under peer review anywhere else for the first three months of review at NEJLT, at the discretion of the submission’s managing editor. 
 
-Manuscripts available elsewhere as a preprint (e.g. on arXiv or an author's private web page) are eligible for review at NEJLT and papers under review or publication at NEJLT may be privately published by the authors at any time on any non-peer-reviewed, non-archival venue.
-
 A paper may not be simultaneously under review through ACL Rolling Review and NEJLT. A paper that has or will receive reviews through ACL Rolling Review may not be submitted for review to NEJLT - rather, it should be committed to NEJLT through ACL Rolling Review.
+
+Manuscripts available elsewhere as a preprint (e.g. on arXiv or an author's private web page) are eligible for review at NEJLT, under most conditions; see our [preprint policy](/policies/#Preprints).
 
 The paper type indicated at submission will not be included in the final publication. The paper types are there to prompt appropriate reviewing and to enable a broad range of submissions, rather than to pigeonhole research.
 
