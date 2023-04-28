@@ -9,13 +9,14 @@ title="Preprints"
 NEJLT adopts the [ACL policy on submission](https://www.aclweb.org/adminwiki/index.php?title=ACL_Policies_for_Submission,_Review_and_Citation) in general, though manuscripts published as anonymous preprints (as offered by e.g. OpenReview) are always welcome.
 Submissions that have been previously published non-anonymously on a pre-print server (like arXiv) are *sometimes* OK; we follow the ACL policy on submission here.
 
-This policy is repeated below (as of October 2019):
+This policy is repeated below (as of April 2023):
 
 > \*ACL conferences and TACL require that submissions be anonymized. A submission will not be considered anonymized if the authors post (or update) a non-anonymized preprint version within an *anonymity period* lasting from 1 month before the submission [deadline] until the time of final notification (or withdrawal). Submissions will be rejected if not properly anonymized.
 
 > * *Anonymized* preprints within the anonymity period are allowed. This is currently only possible on certain platforms but ACL may consider using such a platform for all submissions in the future.
 > * Non-anonymized preprints *before* the anonymity period are allowed, although we encourage authors to wait to post them until *after* the anonymity period.
 > * If a non-anonymized preprint version exists, authors must declare its existence at submission time but should not cite it and are asked not to publicize it further during the anonymity period – the submitted paper should be as anonymous as possible.
+> * ACL explicitly allows updates to preprints, at all times, for the sole purpose of correcting people’s names. If the change falls within the required anonymous period of a conference, the PC Chairs should be notified of the correction.
 
 > The notion of *preprint* is understood broadly to refer to any non-refereed paper posted online, including but not limited to preprint servers such as arXiv. Note that the rule applies only to preprints that authors post themselves, so it does not apply to (say) non-refereed proceedings volumes. The restriction on updating is to prevent authors from circumventing these rules by "flag planting" with a placeholder version over 1 month in advance.
 
