@@ -15,7 +15,7 @@ $~$
 
 $~$
 
-* __Topics of interest:__including but not limited to:
+* __Topics of interest:__ including but not limited to:
   * Algorithms for language processing
   * Architectures for Learning to Process Language
   * Cognitive Modeling and Psycholinguistics
