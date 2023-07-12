@@ -10,26 +10,39 @@ title = "Journal scope"
 
 $~$
 
+* __Field of study:__ Computational Linguistics and Natural Language Processing
 
-* __Topics of interest:__ including but not limited to
+
+$~$
+
+* __Topics of interest:__including but not limited to:
+  * Algorithms for language processing
+  * Architectures for Learning to Process Language
   * Cognitive Modeling and Psycholinguistics
+  * Common-sense Knowledge Modelling
   * Computational Social Science and Social Media
+  * Data-Efficient Approaches to Language Processing
   * Dialogue and Interactive Systems
   * Discourse and Pragmatics
   * Efficient NLP
   * Ethics and NLP
+  * Evaluation of Language Technology
+  * Formal Grammars with Application to Natural Language
   * Generation of Language
   * Information Extraction
   * Information Retrieval and Text Mining
   * Interpretability and Analysis of Models for NLP
   * Language Grounding to Vision, Robotics and Beyond
   * Language Modelling
+  * Language Model Training Methods
+  * Language Model Security
   * Linguistic Issues in Language Technology
   * Theory and Formalism in NLP (Linguistic and Mathematical)
   * Meta-studies on the Field of Language Technology
   * Machine Learning for NLP
   * Machine Translation
   * Model Preferences and Behaviors
+  * Multimodal Processing
   * NLP Applications
   * Phonology, Morphology and Word Segmentation
   * Question Answering
