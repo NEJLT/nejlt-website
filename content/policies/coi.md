@@ -1,7 +1,7 @@
 +++
 widget = "blank"
 headless = true
-weight = 37
+weight = 40
 title="Conflicts of interest"
 +++
 
