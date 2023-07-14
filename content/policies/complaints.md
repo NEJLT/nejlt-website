@@ -1,12 +1,12 @@
 +++
 widget = "blank"
 headless = true
-weight = 38
-title="Complaint handling"
+weight = 85
+title="Complaint and malpractice handling"
 +++
 
 
-Complaints are in the first instance to be sent to the editor in chief, or the editorial office, using the email addresses on the NEJLT contact page.
+Complaints are in the first instance to be sent to the editor-in-chief, or the editorial office, using the email addresses on the NEJLT [contact](https://www.nejlt.org/contact) page.
 Complaints about the NEJLT editor-in-chief can be sent to members of the [NEALT executive board](https://tekstlab.uio.no/nealt/index.php/contact/).
 
 NEJLT will acknowledge the complaint as soon as possible and progress the case with weekly updates, aiming for a resolution within six weeks of receipt.
