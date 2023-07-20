@@ -6,7 +6,7 @@ title="Preprints"
 +++
 
 
-NEJLT adopts a light anonymity policy. We ask that authors do not publish or promote preprints of the work during the review period, i.e. from the time of submission.
+NEJLT adopts a light anonymity policy. We ask that authors do not publish, promote, or update preprints of the work during the review period, i.e. from the time of submission.
 
 The notion of *preprint* is understood broadly to refer to any non-refereed paper posted online, including but not limited to preprint servers such as arXiv. Note that the rule applies only to preprints that authors post themselves, so it does not apply to (say) non-refereed proceedings volumes. The restriction on updating is to prevent authors from circumventing these rules by "flag planting" with a placeholder version over 1 month in advance.
 
