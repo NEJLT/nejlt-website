@@ -25,6 +25,7 @@ weight=20
 * Yufang Hou, IBM
 * Zhijing Jin, Max Planck Institute & ETH Zurich
 * Marco Kuhlmann, Linköping University
+* Xiang Lorraine Li, Allen Institute for Artificial Intelligence
 * Sasha Luccioni, Hugging Face
 * Benjamin Marie, 4i
 * Nafise Sadat Moosavi, The University of Sheffield
