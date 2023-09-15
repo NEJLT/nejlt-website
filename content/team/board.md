@@ -21,10 +21,10 @@ weight=20
 * Angela Fan, Meta
 * Yang Feng, Chinese Academy of Sciences
 * Mark Fishel, University of Tartu
+* Antske Fokkens, Vrije Universiteit Amsterdam
 * Hila Gonen, Meta / University of Washington
 * Yufang Hou, IBM
 * Zhijing Jin, Max Planck Institute & ETH Zurich
-* Marco Kuhlmann, Linköping University
 * Xiang Lorraine Li, Allen Institute for Artificial Intelligence
 * Sasha Luccioni, Hugging Face
 * Benjamin Marie, 4i
