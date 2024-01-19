@@ -21,7 +21,7 @@ weight=20
 * Emily M. Bender, University of Washington
 * Christos Christodoulopoulos, Amazon
 * Manuel R. Ciosici, USC Information Sciences Institute
-* Miryam de Lhoneux, University of Copenhagen
+* Miryam de Lhoneux, KU Leuven
 * Lucia Donatelli, Saarland University
 * Yanai Elazar, University of Washington
 * Angela Fan, Meta
