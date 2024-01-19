@@ -5,4 +5,4 @@ weight = 20
 title="EiC"
 +++
 
-The editor-in-chief is [Leon Derczynski](https://www.derczynski.com/), ITU Copenhagen; [ld@itu.dk](mailto:ld@itu.dk).
+The editor-in-chief is [Marcel Bollmann](https://marcel.bollmann.me/), Linköping University ([marcel.bollmann@liu.se](mailto:marcel.bollmann@liu.se)).

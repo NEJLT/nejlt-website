@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Leon Derczynski
+name: Marcel Bollmann
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: NEJLT is a global journal that publishes peer-reviewed language technology
 
 # Organizations/Affiliations
 organizations:
-- name: IT University of Copenhagen
+- name: Linköping University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -44,16 +44,16 @@ organizations:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ld@itu.dk'  # For a direct email link, use "mailto:ld@itu.dk".
+  link: 'mailto:marcel.bollmann@liu.se'  # For a direct email link, use "mailto:ld@itu.dk".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/LeonDerczynski
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=d8iwqa8AAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/leondz
+  link: https://twitter.com/mmbollmann
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=d8iwqa8AAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/leondz
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -62,7 +62,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
-  
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 #user_groups:

@@ -6,4 +6,4 @@ title = "Editor-in-Chief"
 weight=10
 +++
 
-* Leon Derczynski, ITU Copenhagen; [ld@itu.dk](mailto:ld@itu.dk) ([www](http://www.derczynski.com))
+* Marcel Bollmann, Linköping University ([e-mail](mailto:marcel.bollmann@liu.se) | [www](https://marcel.bollmann.me))

@@ -6,6 +6,12 @@ title = "Editorial board"
 weight=20
 +++
 
+#### Executive editor
+
+* Leon Derczynski, ITU Copenhagen
+
+#### Editorial board members
+
 * Isabelle Augenstein, University of Copenhagen
 * Nikolaos Aletras, University of Sheffield
 * Francesco Barbieri, Snap

@@ -86,11 +86,11 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "editor@nejlt.org"
-phone = "+45 5157 4948"
+phone = "+46 1328 1572"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "IT University of Copenhagen, Rued Langgaards Vej 7", city = "Copenhagen", region = "", postcode = "2300", country = "Denmark", country_code = "DK"}
+address = {street = "Linköping University", city = "Linköping", region = "", postcode = "58183", country = "Sweden", country_code = "SE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
