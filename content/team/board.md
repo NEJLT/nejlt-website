@@ -14,11 +14,13 @@ weight=20
 
 * Isabelle Augenstein, University of Copenhagen
 * Nikolaos Aletras, University of Sheffield
+* Fernando Alva-Manchego, Cardiff University
 * Francesco Barbieri, Snap
 * Jasmijn Bastings, Google
 * Rachel Bawden, INRIA, Paris
 * Yonatan Belinkov, Technion
 * Emily M. Bender, University of Washington
+* Johannes Bjerva, Aalborg University
 * Christos Christodoulopoulos, Amazon
 * Manuel R. Ciosici, USC Information Sciences Institute
 * Miryam de Lhoneux, KU Leuven
