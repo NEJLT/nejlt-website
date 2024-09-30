@@ -1,12 +1,16 @@
 {{ $ := .root }}
 {{ $page := .page }}
 
+<!-- This is broken somehow, .author contains "authors"
 {{ $author := "" }}
 {{ if .author }}
   {{ $author = .author }}
 {{ else }}
   {{ $author = $page.Params.author }}
 {{end}}
+  -->
+
+{{ $author = $page.Params.author }}
 
 {{ $person_page_path := (printf "/authors/%s" (urlize $author)) }}
 {{ $person_page := site.GetPage $person_page_path }}
