@@ -2,9 +2,9 @@
 widget = "blank"
 headless = true
 weight = 20
-title = "Brief"
+title = "In brief"
 +++
 
 
 
-NEJLT is a global journal that publishes peer-reviewed language technology and computational linguistics research **on all languages**.
+NEJLT is a global, [full open access](/policies/#open) journal that publishes peer-reviewed language technology and computational linguistics research **on all languages**.

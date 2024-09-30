@@ -14,7 +14,7 @@
   weight = 20
 
 [[main]]
-  name = "Articles"
+  name = "Issues"
   url = "https://nejlt.ep.liu.se/issue/archive"
   weight = 25
 

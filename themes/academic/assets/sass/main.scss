@@ -38,3 +38,9 @@ $sta-dark-home-section-even: {{ $scr.Get "dark_home_section_even" }};
 @import "bootstrap_variables";
 @import "vendor/bootstrap/bootstrap";
 @import "academic/academic";
+
+{{/* Customizations – probably hacky to put them here */}}
+
+.hero-title {
+    margin-bottom: 2rem;
+}

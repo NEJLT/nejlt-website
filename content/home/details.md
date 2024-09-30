@@ -13,4 +13,4 @@ NEJLT is the journal of [NEALT](https://tekstlab.uio.no/nealt/), the Northern Eu
 
 The ACL Anthology includes articles published in NEJLT since volume 7 (2021), under the venue "[NEJLT](https://aclanthology.org/venues/nejlt/)".
 
-The journal is published by Linköping University press, for which we are grateful. The editor-in-chief of NEJLT is appointed by the Northern European Association for Language Technology. This geographical connection gives the journal its name, though the journal itself does not have a Northern European language focus. 
+The journal is published by [Linköping University Electronic Press](https://ep.liu.se/en/home.aspx), for which we are grateful. The editor-in-chief of NEJLT is appointed by the Northern European Association for Language Technology. This geographical connection gives the journal its name, though the journal itself does not have a Northern European language focus.

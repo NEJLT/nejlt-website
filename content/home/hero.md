@@ -17,7 +17,7 @@ title = "Submit"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-   color = "navy"
+  color = "#3f51b5"
 
   # Background gradient.
   #gradient_start = "#4bb4e3"
@@ -37,8 +37,8 @@ title = "Submit"
   url = "https://nejlt.ep.liu.se/about/submissions"
   label = "Submit manuscript"
   icon_pack = "fas"
-  icon = "download"
+  icon = "upload"
 
 +++
 
-**Log in and send your paper to the Northern European Journal of Lanugage Technology**
+**Log in and send your paper to NEJLT!**
