@@ -8,7 +8,7 @@ title="Full open access"
 
 NEJLT is full open access. This means that accepted papers may be downloaded directly from the web and will not be charged for. There are also no fees for submitting or for publishing. There are no plans to collect fees at any point in the future from any part of the NEJLT process.
 
-From 2020, papers published in NEJLT will also appear on the [ACL Anthology](https://www.aclweb.org/anthology/), which is a fully open access library with direct PDF download, managed by ACL volunteers.
+From 2020, papers published in NEJLT will also appear on the [ACL Anthology](https://aclanthology.org/), which is a fully open access library with direct PDF download, managed by ACL volunteers.
 
 The business model of the journal relies on publishing support, and on the donation of volunteer time and effort from the editorial team and reviewers. NEJLT does not accept commercial sponsorships and does not pay for reviews or academic editing; in turn, work published in NEJLT is also available free.
 

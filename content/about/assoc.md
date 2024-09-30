@@ -8,13 +8,13 @@ weight=15
 
 
 
-NEJLT is, through a board position, managed by the [Northern European Association of Language Technology](http://omilia.uio.no/nealt/). 
+NEJLT is, through a board position, managed by the [Northern European Association of Language Technology](http://omilia.uio.no/nealt/).
 
-NEJLT is published by Linköping University Electronic Press ([LiU e-Press](https://www.ep.liu.se/index.en.asp)) under an Open Access policy through a mutual agreement.
+NEJLT is published by [Linköping University Electronic Press (LiU E-Press)](https://ep.liu.se/en/) under an Open Access policy through a mutual agreement.
 
-From 2020, NEJLT papers will be co-published in the [ACL Anthology](https://aclweb.org/anthology/) free.
+Papers published after 2020 are also hosted by the [ACL Anthology](https://aclanthology.org/).
 
 <div style="text-align:center">
-	<img alt="LiU e-Press" src="/img/liu-epress.png" style="height:50px; margin:10px auto; display: inline-block;" />
-	<img alt="ACL logo" src="/img/acl.png" style="height:50px; margin:10px auto; display: inline-block;" />
+	<img alt="LiU e-Press" src="/img/liu-epress.png" style="height:50px; margin:10px auto; padding-right:10px; display: inline-block;" />
+	<img alt="ACL logo" src="/img/acl.png" style="height:62px; margin:10px auto; padding-left:10px; display: inline-block;" />
 </c>
