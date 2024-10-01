@@ -12,6 +12,8 @@ NEJLT is, through a board position, managed by the [Northern European Associatio
 
 NEJLT is published by [Linköping University Electronic Press (LiU E-Press)](https://ep.liu.se/en/) under an Open Access policy through a mutual agreement.
 
+Long-term archiving of published issues is ensured via automated deposits to the [PKP Preservation Network](https://pkp.sfu.ca/pkp-pn/).
+
 Papers published after 2020 are also hosted by the [ACL Anthology](https://aclanthology.org/).
 
 <div style="text-align:center">
