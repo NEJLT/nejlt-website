@@ -6,45 +6,38 @@ title = "Editorial board"
 weight=20
 +++
 
-#### Executive editor
-
-* Leon Derczynski, ITU Copenhagen
-
 #### Editorial board members
 
 * Isabelle Augenstein, University of Copenhagen
 * Nikolaos Aletras, University of Sheffield
 * Fernando Alva-Manchego, Cardiff University
-* Francesco Barbieri, Snap
-* Jasmijn Bastings, Google
-* Rachel Bawden, INRIA, Paris
+* Francesco Barbieri
+* Rachel Bawden, Inria
 * Yonatan Belinkov, Technion
 * Emily M. Bender, University of Washington
 * Johannes Bjerva, Aalborg University
 * Christos Christodoulopoulos, Amazon
-* Manuel R. Ciosici, USC Information Sciences Institute
+* Manuel R. Ciosici, University of Southern California
 * Miryam de Lhoneux, KU Leuven
-* Lucia Donatelli, Saarland University
+* Lucia Donatelli, Vrije Universiteit Amsterdam
 * Yanai Elazar, University of Washington
 * Angela Fan, Meta
 * Yang Feng, Chinese Academy of Sciences
 * Mark Fishel, University of Tartu
 * Antske Fokkens, Vrije Universiteit Amsterdam
-* Hila Gonen, Meta / University of Washington
-* Yufang Hou, IBM
-* Zhijing Jin, Max Planck Institute & ETH Zurich
-* Xiang Lorraine Li, Allen Institute for Artificial Intelligence
-* Sasha Luccioni, Hugging Face
-* Benjamin Marie, 4i
-* Nafise Sadat Moosavi, The University of Sheffield
+* Hila Gonen, University of Washington
+* Yufang Hou, Interdisciplinary Transformation University Austria & IBM
+* Zhijing Jin, University of Toronto
+* Xiang Lorraine Li, University of Pittsburgh
+* Sasha Luccioni, Huggingface
+* Benjamin Marie
+* Nafise Sadat Moosavi, University of Sheffield
 * Debora Nozza, Bocconi University
-* Ellie Pavlick, Brown University
+* Ellie Pavlick, Brown University & Deepmind
 * Verena Rieser, Deepmind
-* Kay Rottmann, Amazon Alexa AI
+* Kay Rottmann, Amazon
 * Vered Shwartz, University of British Columbia
-* Song Linfeng, Tencent
-* Dhanasekar Sundararaman, Microsoft
 * Jörg Tiedemann, University of Helsinki
 * Emiel van Miltenburg, Tilburg University
 * Adina Williams, Meta
-* Steve Wilson, Oakland University
+* Steven R. Wilson, University of Michigan
