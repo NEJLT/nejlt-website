@@ -34,7 +34,6 @@ weight=20
 * Nafise Sadat Moosavi, University of Sheffield
 * Debora Nozza, Bocconi University
 * Ellie Pavlick, Brown University & Deepmind
-* Verena Rieser, Deepmind
 * Kay Rottmann, Amazon
 * Vered Shwartz, University of British Columbia
 * Jörg Tiedemann, University of Helsinki
